@@ -1,0 +1,38 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Client.exe",
+		"Id": "3A195A8C-9AE9-4993-BCB9-267EF83A9014",
+		"FileName": "{{PATH_PLACE_HOLDER}}\client\Client.vmp",
+		"Created": "8/12/2022 10:25:37 AM",
+		"Type": "ptWin32Con",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "{{PATH_PLACE_HOLDER}}\client\",
+		"OutputFile": "",
+		"SizeInBytes": 4096,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "0D282418-9D60-41AA-8A0E-301B1DB57B51",
+			"Name": "Main.asm",
+			"Created": "8/12/2022 10:25:37 AM",
+			"Type": "pftASM",
+			"Path": "{{PATH_PLACE_HOLDER}}\client\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		}
+	]
+}

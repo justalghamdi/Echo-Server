@@ -1,0 +1,38 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Server.exe",
+		"Id": "C9A4F823-E185-4246-939E-98016E15BA2C",
+		"FileName": "{{PATH_PLACE_HOLDER}}\Server.vmp",
+		"Created": "8/11/2022 4:28:32 AM",
+		"Type": "ptWin32Con",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "{{PATH_PLACE_HOLDER}}\server\",
+		"OutputFile": "",
+		"SizeInBytes": 4096,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "1F73FAE7-D8B4-47E4-BB15-41B238B5D11F",
+			"Name": "Main.asm",
+			"Created": "8/11/2022 4:28:32 AM",
+			"Type": "pftASM",
+			"Path": "{{PATH_PLACE_HOLDER}}\server\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		}
+	]
+}

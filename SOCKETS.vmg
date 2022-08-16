@@ -1,0 +1,31 @@
+{
+	"Version": 2,
+	"Group": {
+		"Name": "SOCKETS",
+		"Id": "3560C5DD-5BBA-49B8-ACC6-F6E454091410",
+		"Created": "8/11/2022 4:28:24 AM",
+		"FileName": "{{PATH_PLACE_HOLDER}}\SOCKETS.vmg",
+		"SelectedProjectId": "96AC255E-8C4A-4A27-9118-0888038F5240",
+		"LastFileOpenId": "7E97AB56-A5F1-46F9-88E7-FC107D520792",
+		"Projects": [
+			{
+				"Id": "C9A4F823-E185-4246-939E-98016E15BA2C",
+				"Name": "Server.exe",
+				"FileName": "{{PATH_PLACE_HOLDER}}\server\Server.vmp"
+			},
+			{
+				"Id": "3A195A8C-9AE9-4993-BCB9-267EF83A9014",
+				"Name": "Client.exe",
+				"FileName": "{{PATH_PLACE_HOLDER}}\client\Client.vmp"
+			}
+		],
+		"BuildOrder": [
+			{
+				"Id": "C9A4F823-E185-4246-939E-98016E15BA2C"
+			},
+			{
+				"Id": "3A195A8C-9AE9-4993-BCB9-267EF83A9014"
+			}
+		]
+	}
+}
